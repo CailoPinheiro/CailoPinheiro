@@ -5,6 +5,11 @@
 -  I’m currently learning Java and SQL.
 -  I’m looking for help with my newbies repositories and boost my carrer :D
 
+
+<div>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CailoPinheiro&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&title_color=8FD19F&icon_color=9B9BC1&bg_color=080E16&text_color=9B9BC1
+</div>
+
 <div>
 <img width="42%" src="https://github-readme-stats.vercel.app/api?username=CailoPinheiro&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&title_color=8FD19F&icon_color=9B9BC1&bg_color=080E16&text_color=9B9BC1"/>
 
