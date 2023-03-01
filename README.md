@@ -2,8 +2,9 @@
 
 
 -  I’m just studying back-end and working in personal projects.
--  I’m currently learning javascript and about better forms in html.
--  I’m looking for help with my newbies repositories and boost my carrer :D
+-  I’m currently learning java web and about better forms in html (oh god, it's very important).
+-  I want to gain more and more experience and raise my professional level. That's cool.
+-  Since you came here, give me a reminder in my repositories, maybe leave a comment, constructive criticism or feedback!
 
 <div >
 <img width="42%" src="https://github-readme-stats.vercel.app/api?username=CailoPinheiro&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&title_color=8FD19F&icon_color=9B9BC1&bg_color=080E16&text_color=9B9BC1"/>
