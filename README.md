@@ -1,4 +1,4 @@
-## Hello, I'm Cailo (cailoop) :D
+## Hey, I'm Cailo (cailoop) :D
 
 
 -  I’m just studying back-end and working in personal projects.
