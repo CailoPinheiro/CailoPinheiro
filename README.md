@@ -13,7 +13,7 @@
 </div>
 
 <div>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CailoPinheiro&" alt="CailoPinheiro"
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cailopinheiro&" alt="cailopinheiro"
 </div>
 
 
