@@ -1,6 +1,5 @@
 ## Hey, I'm Cailo (cailoop) :D
 
-
 -  I’m just studying back-end and working in personal projects.
 -  I’m currently learning java web and about better forms in html (oh god, it's very important).
 -  I want to gain more and more experience and raise my professional level. That's cool.
