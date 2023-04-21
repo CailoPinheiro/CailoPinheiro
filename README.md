@@ -7,20 +7,12 @@
 
 ### My Stats:
 
-<div class="stats">
+<div>
+<img width="50%" display=inline src="https://github-readme-stats.vercel.app/api?username=CailoPinheiro&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&title_color=8FD19F&icon_color=9B9BC1&bg_color=080E16&text_color=9B9BC1"/>
 
-<img display=inline src="https://github-readme-stats.vercel.app/api?username=CailoPinheiro&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&title_color=8FD19F&icon_color=9B9BC1&bg_color=080E16&text_color=9B9BC1"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CailoPinheiro&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&title_color=8FD19F&icon_color=8FD19F&bg_color=080E16&text_color=9B9BC1"/>
-  
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=cailopinheiro&" alt="cailopinheiro"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CailoPinheiro&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&title_color=8FD19F&icon_color=8FD19F&bg_color=080E16&text_color=9B9BC1"/>
 </div>
 
-<style>
-    .stats {
-        display: flex; flex-direction: column; gap: 10px; width: 100vw; padding: 25px; border-radius: 20px; background-color: rgba(233, 233, 233, 0.02);}
-
-    .stats img{width: 350px;}
-
-    .stats
-</style>
+<div>
+  <img width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cailopinheiro&" alt="cailopinheiro"
+</div>
