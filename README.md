@@ -1,9 +1,10 @@
 # Hey, I'm Cailo (cailoop) :D
 ```
-- I'm starting to study CRUD Spring Boot + Angular.
-- Currently studying Java EE and participating in the ONE Program (Oracle + Alura).
+- Welcome to my profile!
+- I recently graduated from Alura + Oracle's ONE (One Next Education) program. And I'm looking for an opportunity to gain real experience.
+- I am currently starting my studies in Next.js, improving Reactjs and acquiring more knowledge about Tailwind CSS.
 - I want to be an excellent professional. In addition to always learning more, I also try to share what I know.
-- Since you came here, give me a reminder in my repositories, maybe leave a comment, constructive criticism or feedback!
+- Since you came this far, leave me a reminder in my repositories, maybe leave a comment, constructive criticism or feedback!
 ```
 
 ###
