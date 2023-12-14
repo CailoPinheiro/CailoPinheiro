@@ -1,4 +1,4 @@
-# Hey, I'm Cailo (cailoop) :D
+# Hey, I'm Cailo Pinheiro (cailoop)
 ```
 - I recently graduated from Alura + Oracle's ONE (One Next Education) program. And I'm looking for a job to gain experience.
 - I am currently starting my studies in Next.js, improving Reactjs and acquiring more knowledge about Typescript and form validations with Zod and React Hook Form.
