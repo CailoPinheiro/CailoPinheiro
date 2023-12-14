@@ -1,8 +1,7 @@
 # Hey, I'm Cailo (cailoop) :D
 ```
-- Welcome to my profile!
 - I recently graduated from Alura + Oracle's ONE (One Next Education) program. And I'm looking for a job to gain experience.
-- I am currently starting my studies in Next.js, improving Reactjs and acquiring more knowledge about Tailwind CSS.
+- I am currently starting my studies in Next.js, improving Reactjs and acquiring more knowledge about Typescript and form validations with Zod and React Hook Form.
 - I want to be an excellent professional. In addition to always learning more, I also try to share what I know.
 - Since you came this far, leave me a reminder in my repositories, maybe leave a comment, constructive criticism or feedback!
 ```
